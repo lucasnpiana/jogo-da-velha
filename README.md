@@ -1,5 +1,10 @@
 # Jogo da Velha
 
+
+> 🎮 **Jogue à versão online:** [lucasnpiana.github.io/jogo-da-velha](https://lucasnpiana.github.io/jogo-da-velha/)
+
+Jogo da velha para navegador, feito com HTML, CSS e JavaScript puro...
+
 Jogo da velha para navegador, feito com HTML, CSS e JavaScript puro, sem frameworks nem bibliotecas. É possível jogar contra outra pessoa ou contra o computador. O visual imita um quadro-negro desenhado com giz.
 
 Este projeto foi desenvolvido como prática dos conteúdos do curso de JavaScript do repositório [bootcamp-javascript](https://github.com/lucasnpiana/bootcamp-javascript).
